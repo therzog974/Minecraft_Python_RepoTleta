@@ -1,2 +1,2 @@
-# Minecraft_Python_RepoTleta
- Minecraft Python files that hack minecraft using Python tleta
+# Minecraft_Python_Repo
+Minecraft Python files that hack minecraft using Python
