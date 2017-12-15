@@ -4,6 +4,8 @@ mc = Minecraft.create()
 points = int(input("enter your points"))
 if points <= 2:
     mc.player.setPos(0,12,0)
+elif points == 23:
+    mc.player.setPos(91,6,30)
 elif points > 2:
     mc.player.setPos(122, 10, 122)
 elif points > 4:
